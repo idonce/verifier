@@ -1,0 +1,9 @@
+verifier
+.DS_Store
+*.env
+*.env.*
+*.key
+*.pem
+*.log
+build.push.docker.image*
+VERSION
